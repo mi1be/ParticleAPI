@@ -1,0 +1,5 @@
+name: ParticleAPI
+main: nyan\particleapi\ParticleAPI
+author: nyan
+version: 1.2.0
+api: 3.0.0
